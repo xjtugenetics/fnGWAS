@@ -1,0 +1,8 @@
+#Pathway-enrich.R
+Script for gene pathway analysis
+
+#SMR.analysis.sh
+Script for SMR analysis
+
+#Gene2Disease_whole.genome.genes_disease.relevant.function.txt.tar.gz
+Curated disease-relevant function on whole genome genes (for user-defined disease gene exploring)
