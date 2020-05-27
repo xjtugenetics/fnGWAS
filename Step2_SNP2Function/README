@@ -1,0 +1,5 @@
+#allele_specific_motif_analysis_pipeline.py
+Script for analyse alle-specific binding motif for input SNP (input:example.vcf)
+
+#SNP2Function_molecular.QTL_all.significant.SNPs.txt.tar.gz
+All SNPs with significant local molecular QTL association (SNPs located within associated peak region) (for user-defined SNP function exploring)
