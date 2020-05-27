@@ -1,0 +1,11 @@
+##Pre-annotated whole genome analysis results
+User can easily extract interested genes for dowstream analysis
+
+# Gene2Drug_known.drug.targets_whole.genome.genes.txt.tar.gz
+All known drug target genes
+
+#Gene2Drug_druggable.genes_whole.genome.genes.txt.tar.gz
+All potential druggable genes
+
+#Gene2Drug_predicted.potential.drug.target.genes.txt.tar.gz
+All drug target or druggable genes with PPI with known drug target genes (for user-defined new drug target or potential drug repurposing prediction)
