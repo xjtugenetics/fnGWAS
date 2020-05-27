@@ -1,0 +1,8 @@
+#SNP2Gene_predicted.target_gene.py
+Predict local and distal target genes for input SNPs based on user-provided QTL and HiC annotation data (./fnGWAS/data/QTL; ./fnGWAS/data/HiC)
+
+#SNP2Gene_coloc.analysis.R
+Test whether GWAS signal and QTL association shared the same causal variant using coloc approach by giving user-provided summary data
+
+#SNP2Gene_PICCOLO.analysis.R
+Test whether GWAS signal and QTL association shared the same causal variant using PICCOLO approach by giving top Pvalue and SNP for both both QTL and GWAS.

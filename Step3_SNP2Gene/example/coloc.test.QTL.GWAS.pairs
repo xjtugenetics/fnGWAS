@@ -1,0 +1,5 @@
+GTEx.data	GWAS.data	GWAS.index	Gene	GWAS.maf	QTL.maf
+GTExV7_Whole_Blood.QTL	IBD	rs224095	ADO	curret.dictory/EUR.IBD.rs224095.100KB-region.maf	curret.dictory/Whole_Blood.chr10.ADO.maf
+GTExV7_LCLs.QTL	IBD	rs224095	ADO	curret.dictory/EUR.IBD.rs224095.100KB-region.maf	curret.dictory/Cells_EBV-transformed_lymphocytes.chr10.ADO.maf
+GTExV7_Whole_Blood.QTL	IBD	rs4402245	CREM	curret.dictory/EUR.IBD.rs4402245.100KB-region.maf	curret.dictory/Whole_Blood.chr10.CREM.maf
+GTExV7_LCLs.QTL	IBD	rs4402245	CREM	curret.dictory/EUR.IBD.rs4402245.100KB-region.maf	curret.dictory/Cells_EBV-transformed_lymphocytes.chr10.CREM.maf
