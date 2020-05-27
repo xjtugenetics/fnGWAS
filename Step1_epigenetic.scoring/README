@@ -1,0 +1,6 @@
+#Epigenetic_scroing.feature.annotation-1.py
+1) Extract GWAS noncoding postive and background SNPs based on input GWAS tag SNPs
+2) Functional enrichment analysis for selecting significant features for SNP scoring based on user-provided epigentic annnotation data (./fnGWAS/data/Epigenetic_feature).
+
+#Epigenetic_scoring.compute.score-2.py
+Compute epigenetic functional score for all postive SNPs based on result from Epigenetic_scroing.feature.annotation-1.py
