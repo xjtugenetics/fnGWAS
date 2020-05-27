@@ -1,0 +1,16 @@
+##Genome or user-defined annotation data need be prepared in this dictory before running each pipeline script!!!
+#we packaged some small annotation files <hg19>(other files need be preprared by user or dowloaded from public website)
+
+##Prepared necessay annotation data!!
+#All-chromosome.fa <dowloaed link>;<hg19/hg38 should be consistent with all other annotation or genotype file>
+#gencode.v19.transcript_TSS1KB_promoter.bed <prepared>;<default hg19, other version could be replaced dowloaded from xxx>
+#hg19_wgEncodeGencodeBasicV19Mrna.fa <copy from ~/software/annover/humandb,http://annovar.openbioinformatics.org/en/latest/user-guide/startup/>
+#hg19_wgEncodeGencodeBasicV19.txt <copy from ~/software/annover/humandb,http://annovar.openbioinformatics.org/en/latest/user-guide/startup/>
+#MHC_NCBI_region.bed: MHC region dowloaded from NCBI (https://www.ncbi.nlm.nih.gov/grc/human/regions/MHC?asm=GRCh37) 
+#meme.motif: arraged motif databse by integrating motif from JASPAR (2018 version), HOCOMOCO (version 11), SwissRegulon, Transfac and Jolma2013.
+
+##Prepaed by user!!
+#HiC: chromatin interaction data (multiple files supported with one file represent one dataset or cell lines, uniform name<data_name.bedpe>
+#QTL: Filtered significant QTL results (multiple files supported with one file represent one dataset or tissue, uniform name<data_name.QTL>)
+#For both HiC and QTL, example data for format reference are prepvided, please remove them using uer-defined final data!)
+#Epigenetic_feature:epigenetic peak bed file for scroing (multiple files supported with one file represent one file storing one or multipe features <see example files and replace them with uer-defined dataset>, uniform name<Epigenetic.type_cell.bed>
